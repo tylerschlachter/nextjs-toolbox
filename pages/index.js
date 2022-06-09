@@ -17,7 +17,7 @@ export default function Home() {
         <hr />
         <p className="description">
           Here's an example of a Netlify Form! When you fill this out, the
-          submissions can be found in the Netlify Admin site.
+          submissions can be found in the Netlify Admin site. And don't you know you've got to yolo.
         </p>
         <FeedbackForm />
         <JokeBlock />
